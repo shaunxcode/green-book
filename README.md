@@ -1,4 +1,4 @@
-greenbook
+green-book
 =========
 
 smalltalk inspired IDE
